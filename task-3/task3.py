@@ -38,7 +38,7 @@ query = "AI milestones"
 retrieved_docs = retriever.invoke(query)
 retrieved_text = "\n".join([doc.page_content for doc in retrieved_docs])
 prompt = PromptTemplate.from_template(
-    "Summarize the following text in 3 sentences:\n{text}"
+    "Summarize the following text in exactly 3 sentences:\n{text}"
 )
 chain = prompt | llm
 result = chain.invoke({"text": retrieved_text})
