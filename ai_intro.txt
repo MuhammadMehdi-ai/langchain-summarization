@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) has a long and fascinating history that dates back to ancient times, when philosophers and inventors imagined machines that could mimic human thinking. However, the modern concept of AI began in the mid-20th century. In 1950, British mathematician Alan Turing introduced the idea of a machine that could simulate human intelligence, proposing the famous Turing Test to evaluate a machine’s ability to exhibit intelligent behavior.
+
+The field of AI was officially founded in 1956 during the Dartmouth Conference, where researchers like John McCarthy, Marvin Minsky, and Claude Shannon gathered to explore the possibility of creating intelligent machines. Early AI research focused on symbolic reasoning and problem-solving, leading to the development of programs that could solve algebra problems and play games like chess.
+
+In the 1960s and 1970s, AI saw significant progress, but expectations exceeded reality, leading to reduced funding periods known as "AI winters." Despite setbacks, research continued, particularly in areas like expert systems, which became popular in the 1980s. These systems used rules and knowledge bases to make decisions in specific domains, such as medical diagnosis.
+
+The 1990s marked a turning point for AI with the rise of machine learning, allowing computers to learn from data rather than relying solely on predefined rules. A notable milestone occurred in 1997 when IBM’s Deep Blue defeated world chess champion Garry Kasparov, demonstrating the power of AI in complex problem-solving.
+
+In the 21st century, AI has experienced rapid growth due to advances in computing power, big data, and neural networks. Breakthroughs in deep learning have enabled applications such as speech recognition, image classification, and natural language processing. Systems like virtual assistants, recommendation engines, and autonomous vehicles are now part of everyday life.
+
+Today, AI continues to evolve, with researchers working on achieving artificial general intelligence (AGI), which would enable machines to perform any intellectual task that humans can do. While AI offers immense potential to transform industries and improve lives, it also raises ethical concerns related to privacy, bias, and the future of work.
